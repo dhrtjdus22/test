@@ -63,12 +63,12 @@ img 태그 :
 
 # 코드
 
----python
+```python
 # 코드 블럭
 
 def hello();
   print("hello")
----
+```
 
 인라인 코드
 
